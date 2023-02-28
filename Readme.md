@@ -10,3 +10,5 @@ element-by-id
 input
 
 input-with-function
+
+button-roll-dice
