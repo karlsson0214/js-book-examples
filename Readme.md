@@ -14,3 +14,7 @@ input
 input-with-function
 
 button-roll-dice
+
+loops (slingor)
+
+canvas
