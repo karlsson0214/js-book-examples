@@ -7,6 +7,8 @@ prompt-alert
 
 element-by-id
 
+if-sats
+
 input
 
 input-with-function
