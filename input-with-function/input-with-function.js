@@ -1,3 +1,5 @@
+"use strict";
+
 let input_element = document.getElementById("js-input");
 
 // https://developer.mozilla.org/en-US/docs/Web/API/Element/keydown_event'

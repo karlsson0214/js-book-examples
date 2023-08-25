@@ -1,4 +1,4 @@
-
+"use strict";
 
 let input_element = document.getElementById("js-input");
 // läs innehållet i angivet html-element

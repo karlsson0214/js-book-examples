@@ -1,3 +1,5 @@
+"use strict";
+
 // Run code in web page.
 
 // prompt() works in web page, but not in debugger.

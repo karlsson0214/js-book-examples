@@ -1,3 +1,5 @@
+"use strict";
+
 let button = document.getElementById("js-button");
 let output = document.getElementById("js-output");
 

@@ -1,3 +1,5 @@
+"use strict";
+
 /* 
 Hämta element i html-dokumentet som detta skript körs på.
 Mer precist hämta elementet med angivet id.

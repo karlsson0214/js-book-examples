@@ -1,3 +1,5 @@
+"use strict";
+
 let canvas = document.getElementById("js-canvas");
 
 if (canvas.getContext) {
@@ -15,5 +17,26 @@ if (canvas.getContext) {
     ctx.fill();
 
     ctx.clearRect(50, 50, 50, 50);
+
+    let img = new Image(); // Create new img element
+    img.src = "crab2.png"; // Set source path
+    
+    let x = 100;
+    let y = 100;
+    let angle = 45;
+    // Save the current context  
+    ctx.save();  
+    // Translate to the center point of our image  
+    ctx.translate(x + img.width * 0.5, y + img.height * 0.5);  
+    // Perform the rotation  
+    ctx.rotate(angle * Math.PI / 180);  
+    // Translate back to the top left of our image  
+    ctx.translate(-x-img.width * 0.5, -y-img.height * 0.5);  
+    // Finally we draw the image  
+    ctx.drawImage(img, x, y);
+    // And restore the context ready for the next loop  
+    ctx.restore();
+
+   
 
   }

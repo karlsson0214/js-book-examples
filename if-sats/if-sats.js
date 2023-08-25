@@ -1,3 +1,5 @@
+"use strict";
+
 let entry_div = document.getElementById("js-entry");
 
 let number_1 = Math.floor(Math.random() * 6 + 1);
