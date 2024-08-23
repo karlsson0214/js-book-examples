@@ -19,7 +19,13 @@ while-slingor
 
 for-slingor
 
-todo array och andra samlingar
+array 
+
+map
+
+todo set
+
+todo funktioner
 
 todo "struct" or class
 
