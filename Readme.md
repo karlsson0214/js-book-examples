@@ -28,4 +28,4 @@ canvas
 
 Länkar
 -----------
-[JavaScropt reference, Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+[JavaScript reference, Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
