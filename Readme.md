@@ -15,6 +15,12 @@ input-with-function
 
 button-roll-dice
 
-loops (slingor)
+while-slingor
+
+for-slingor
+
+todo array och andra samlingar
+
+todo "struct" or class
 
 canvas
